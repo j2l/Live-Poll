@@ -1,5 +1,8 @@
 node_modules/
 .DS_Store
+<<<<<<< HEAD
 database.db
 .env
 .idea
+=======
+>>>>>>> parent of e5f14c7... live polling work from stream

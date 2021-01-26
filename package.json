@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/CodingTrain/Live-Poll#readme",
   "dependencies": {
+<<<<<<< HEAD
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "nedb": "^1.8.0",
@@ -43,5 +44,8 @@
     "*.js": [
       "eslint . --fix"
     ]
+=======
+    "express": "^4.17.1"
+>>>>>>> parent of e5f14c7... live polling work from stream
   }
 }
